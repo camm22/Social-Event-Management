@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "id": 3,
+      "category": "education",
+      "title": "TEST 5",
+      "description": "papapapa",
+      "location": "Paris",
+      "date": "2023-12-11",
+      "time": "22:22",
+      "petsAllowed": true,
+      "organizer": "Camille Bordes"
+    }
+  ]
+}
